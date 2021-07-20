@@ -1,2 +1,2 @@
 # HTBWriteup
-Casual Write up for Hack the box
+Casual Write up for CTF challenge
