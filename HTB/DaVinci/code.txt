@@ -20,5 +20,5 @@ use steghide tools to extract key from mona.jpg passphrase is Guernica
 
 We will get a Base64 key : VTBaU1EyVXdNSGRpYTBKbVZFUkdObEZHT0doak1UbEZUVEJDUldaUlBUMD0=
 
-Decode by Base64 3 times : HTB{M0n@_L1z@_!s_D3@D}
+Decode by Base64 3 times : HTB{FLAG}
 
