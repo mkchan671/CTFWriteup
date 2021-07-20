@@ -13,15 +13,10 @@ Go back look at the hints
 .
 .
 .
-.
-.
-.
-No idea...... Look at HTB Forum.......
 Something about the field where August and Chris share?
 
 and after decrypt it is in base64, ok
 
-Keyboard
 
 try search things keyboard and august: August Dvorak,
 and he has his own keyboard, see if there are any decrypt tools online.
@@ -29,5 +24,3 @@ https://www.geocachingtoolbox.com/index.php?lang=en&page=dvorakKeyboard
 use the left hand one
 
 then put the put result to base64 decode, thats it.
-
-The flag gosh
